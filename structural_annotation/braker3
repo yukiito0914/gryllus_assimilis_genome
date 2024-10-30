@@ -1,0 +1,12 @@
+# This script was executed within a Docker container.
+nohup docker run -v /home/yuki_ito/work2:/work1 --user 1000:100 --cpus=20 teambraker/braker3:latest bash -c 'cd /work1/app \
+&& zcat gm_key_64.gz > ~/.gm_key \
+&& cd /work1/out/braker3 \
+&& braker.pl \
+--genome=/work1/data/draft_genome.sort.rename.softmasked.fasta \
+--prot_seq=/work1/data/protein_fasta/bioinf.uni-greifswald.de/bioinf/partitioned_odb11/Arthropoda.fa \
+--rnaseq_sets_ids=CLEAN_1_sub,CLEAN_2_sub \
+--rnaseq_sets_dirs=/work1/data/RNA-seq_clean \
+--softmasking \
+--threads 20  \
+&& chmod 777 -R /work1/out/braker3/braker' > /home/yuki_ito/work2/log/Braker3_Futahoshi_240123.log &
