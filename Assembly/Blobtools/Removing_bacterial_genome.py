@@ -1,7 +1,7 @@
 import pandas as pd
 from Bio import SeqIO
 
-##setting##
+### setting ###
 blobtools_path = '/home/yuki_ito/work2/Tasks/blobtools/Jamaican/flye_new/blobtools_create_out.blobDB.table.txt'  
 fasta_path = '/home/yuki_ito/work2/Tasks/Gryllus_assimilis/POLCA/J_flye_new/polca_3/polca_3.fa'       
 output_fasta_path = '/home/yuki_ito/work2/Tasks/blobtools/Jamaican/flye_new/J_No_contami.fa' 
