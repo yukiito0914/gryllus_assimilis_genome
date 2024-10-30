@@ -1,12 +1,12 @@
-### Settong ###
+### setting ###
 jellyfish_path="/home/yuki_ito/work2/App/jellyfish-2.3.0"
 genomescope_path="/home/yuki_ito/work2/App/genomescope"
 fastq_path="/home/yuki_ito/work2/Src/dorado_Gryllus_assimillis/dorado_J_filtered.fastq"
 WORK_DIR="/home/yuki_ito/work2/Tasks/genomescope/Jamaican"
 thread=
 
-conda activate genomescope
 ### genomescope ###
+conda activate genomescope
 cd $jellyfish_path
 
 ### fastq
