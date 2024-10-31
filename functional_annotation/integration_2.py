@@ -30,7 +30,7 @@ combine_cols <- function(dfs) {
 
 
 process_file <- function(file.type, file.path, gene_list) {
-  print(paste("Reading file:", file.path))  # For debag
+  print(paste("Reading file:", file.path))  # For debagging
   df <- read_tsv(file.path, show_col_types = FALSE, col_names = FALSE)
   
   # デバッグ情報
