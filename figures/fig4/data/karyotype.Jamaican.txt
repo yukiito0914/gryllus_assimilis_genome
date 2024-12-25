@@ -1,0 +1,15 @@
+chr - Super-Scaffold_1 Chr1 0 279077963 chr1
+chr - Super-Scaffold_2 Chr2 0 150787367 chr2
+chr - Super-Scaffold_3 Chr3 0 114279586 chr3
+chr - Super-Scaffold_4 Chr4 0 106416213 chr4
+chr - Super-Scaffold_5 Chr5 0 106291516 chr4
+chr - Super-Scaffold_6 Chr6 0 102618786 chr6
+chr - Super-Scaffold_7 Chr7 0 102347489 chr7
+chr - Super-Scaffold_8 Chr8 0 96343522 chr8
+chr - Super-Scaffold_9 Chr9 0 88448555 chr9
+chr - Super-Scaffold_10 Chr10 0 81193572 chr10
+chr - Super-Scaffold_11 Chr11 0 80748375 chr11
+chr - Super-Scaffold_12 Chr12 0 72349867 chr12
+chr - Super-Scaffold_13 Chr13 0 64351845 chr12
+chr - Super-Scaffold_14 Chr14 0 56896945 chr14
+chr - Super-Scaffold_15 Chr15 0 49445995 chr15
