@@ -4,4 +4,4 @@
 ## Data Records
 The assembled genome has been deposited at GenBank under the accession number [JBIABI000000000](https://www.ncbi.nlm.nih.gov/nuccore/JBIABI000000000).
   
-The assembled genome and annotation datasets are also available in [figshare]([10.6084/m9.figshare.26761927](https://figshare.com/articles/dataset/_b_Chromosome-scale_whole_genome_sequences_and_annotation_of_the_Jamaican_field_cricket_b_b_i_Gryllus_assimilis_i_b_/26761927)).
+The assembled genome and annotation datasets are also available in [figshare](https://figshare.com/articles/dataset/_b_Chromosome-scale_whole_genome_sequences_and_annotation_of_the_Jamaican_field_cricket_b_b_i_Gryllus_assimilis_i_b_/26761927).
